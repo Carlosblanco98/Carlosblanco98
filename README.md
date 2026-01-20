@@ -54,15 +54,15 @@ Pinned projects (suggest these repos to create \& pin)
 
 Quick links
 
-\- Portfolio / GitHub Pages (optional): https://Carlosblanco98.github.io
+\- Portfolio / GitHub Pages: https://Carlosblanco98.github.io
 
-\- LinkedIn: https://www.linkedin.com/in/your-linkedin (paste your URL)
+\- LinkedIn: https://www.linkedin.com/in/juan-blanco-/
 
 
 
 Contact
 
-\- Email: your.email@example.com
+\- Email: juancarblanco98@gmail.com
 
 \- Open to: cloud roles (junior cloud engineer, cloud ops, SRE/infra), mentorship, and pairing on quick projects — I’ll be at TechTO, let's chat!
 
