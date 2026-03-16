@@ -1,68 +1,68 @@
 \# Hi — I'm Carlos Blanco 👋
 
+IT Administrator → Cloud Engineer (AZ-900 ✅ | AZ-104 🔄 in progress)
 
-
-Help Desk -> Cloud Engineer (AZ-900, AZ-104) • migrating into Azure cloud operations \& infrastructure
-
-
-
-Short pitch
-
-\- I’m transitioning from Help Desk to cloud engineering and SRE-focused work. I hold AZ-900 and AZ-104 and I’m actively building automation and infrastructure projects to demonstrate IaC, deployments, and monitoring on Azure.
-
-\- I’m attending TechTO and open to junior cloud/infra, platform, or cloud operations roles (Toronto/remote).
+Bridging enterprise IT operations with cloud infrastructure and automation
 
 
 
-Key skills
+\## About Me
 
-\- Cloud: Microsoft Azure (AZ-900, AZ-104), App Services, Azure VMs, Storage, Virtual Network
+I come from hands-on IT administration at a Toronto law firm where I was 
 
-\- IaC / Automation: Terraform, ARM/Bicep, Azure CLI, PowerShell
+the sole onsite resource supporting 100+ users — managing SonicWall VPN, 
 
-\- DevOps fundamentals: Git, GitHub Actions, CI/CD, container basics (Docker)
+Exchange Online via PowerShell, SQL-based provisioning, and cloud migrations 
 
-\- Observability \& ops: basic logging/monitoring, alerting, runbook creation
+to iManage. Now I'm channeling that real-world ops experience into cloud 
 
-\- Other: Windows \& Linux troubleshooting, scripting (PowerShell, Bash), networking fundamentals
-
-
-
-What I’m doing now
-
-\- Building short projects that show: provisioning with Terraform, a CI/CD pipeline with GitHub Actions, and a simple app deployed to Azure.
-
-\- Uploading my resume and polishing this profile for TechTO.
+engineering through Azure projects, IaC, and automation.
 
 
 
-Resume
+Open to junior cloud engineer, cloud ops, and Azure administrator roles 
 
-\- \[JuanCBresume.pdf](./JuanCBresume.pdf)
-
-
-
-Pinned projects (suggest these repos to create \& pin)
-
-\- cloud-showcase — small demo: Terraform + sample app + GitHub Actions deploy to Azure App Service
-
-\- infra-scripts — reusable PowerShell / Azure CLI scripts for VM provisioning and automation
-
-\- helpdesk-to-cloud-notes — short notes / mini-posts describing migrations, troubleshooting steps, and what I learned (great to show growth)
+in Toronto or remote.
 
 
 
-Quick links
+\## Key Skills
 
-\- Portfolio / GitHub Pages: https://Carlosblanco98.github.io
+\- \*\*Cloud:\*\* Microsoft Azure (AZ-900, AZ-104 in progress), Azure VMs, 
 
-\- LinkedIn: https://www.linkedin.com/in/juan-blanco-/
+&#x20; App Services, Storage, Virtual Networks, Entra ID / Azure AD
+
+\- \*\*IaC / Automation:\*\* Terraform, Bicep, Azure CLI, PowerShell
+
+\- \*\*DevOps Fundamentals:\*\* Git, GitHub Actions, CI/CD, Docker basics
+
+\- \*\*Ops \& Security:\*\* Exchange Online admin, SonicWall SSL-VPN, 
+
+&#x20; Duo MFA, Mimecast, Windows Server, Active Directory
+
+\- \*\*Scripting:\*\* PowerShell (Exchange cmdlets, M365 automation), Bash
 
 
 
-Contact
+\## What I'm Building
 
-\- Email: juancarblanco98@gmail.com
+\- `infra-scripts` — reusable PowerShell scripts for M365 and Azure admin tasks
 
-\- Open to: cloud roles (junior cloud engineer, cloud ops, SRE/infra), mentorship, and pairing on quick projects — I’ll be at TechTO, let's chat!
+\- `cloud-showcase` — Terraform provisioning + GitHub Actions CI/CD 
+
+&#x20;  deployed to Azure App Service
+
+\- `helpdesk-to-cloud-notes` — real-world IT ops write-ups and 
+
+&#x20;  migration notes from the field
+
+
+
+\## Links
+
+\- 💼 LinkedIn: linkedin.com/in/juan-blanco-
+
+\- 📄 Resume: JuanCBlanco\_Resume\_2026.pdf
+
+\- 📧 juancarblanco98@gmail.com
 
